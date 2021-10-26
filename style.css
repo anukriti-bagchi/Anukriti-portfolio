@@ -221,7 +221,12 @@ footer {
     color: #517fa4;
 }
 /* -----------------------------*/
-@media only screen and (max-width: 390px) {
+
+
+
+
+@media only screen and (max-width: 400px) {
+    
     .section p{
         padding: 2rem;      
         font-size: 2rem;  
